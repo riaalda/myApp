@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="counter_default_value">0</string>
+    <string name="btn_increment_text">Increment +1</string>
+    <string name="btn_decrement_text">Decrement -1</string>
+    <string name="btn_second_text">Go to the second page</string>
+</resources>
